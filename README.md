@@ -1,0 +1,1 @@
+National Collision Database (NCDB) – a database containing all police-reported motor vehicle collisions on public roads in Canada. Selected variables (data elements) relating to fatal and injury collisions for the collisions from 1999 to the most recent available data.
